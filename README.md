@@ -1,4 +1,11 @@
-### Hi there 👋
+### Secret-chest
+
+I'm working on Scratch2Python, a Scratch to Python converter.
+
+I'm also working on some more stuff.
+https://secret-chest.github.io
+
+Pronouns: he/him
 
 <!--
 **Secret-chest/Secret-chest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -21,6 +21,7 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Secret-chest&show_icons=true&title_color=009688&text_color=ffffff&bg_color=263238&icon_color=009688&hide_border=true&border_radius=0&hide_rank=true&disable_animations=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Secret-chest&layout=compact&title_color=009688&text_color=ffffff&bg_color=263238&icon_color=009688&hide_border=true&border_radius=0&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+![Snake](https://raw.githubusercontent.com/Secret-chest/Secret-chest/703d3134d81e4937a4bcc4fa80c38794c45b570d/github-contribution-grid-snake.svg)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Secret-chest&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 

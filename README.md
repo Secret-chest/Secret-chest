@@ -30,7 +30,6 @@ I'm also working on some more stuff.
 https://secret-chest.github.io
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23263238&textColor=%23ffffff&qColor=%239575cd&aColor=%2300bcd4)
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
 <!--
 **Secret-chest/Secret-chest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

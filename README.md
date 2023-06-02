@@ -25,10 +25,12 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Secret-chest&theme=tokyonight&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-I'm working on Scratch2Python, a Scratch interpreter in Python, as well as a secret project.
+Ask me anything in the discussions here.
+
+I'm working on Scratch2Python, a Scratch interpreter in Python, as well as other useless stuff like photolime.
 
 I'm also working on some more stuff.
-https://secret-chest.github.io
+https://Secret-chest.github.io
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23263238&textColor=%23ffffff&qColor=%239575cd&aColor=%2300bcd4)
 

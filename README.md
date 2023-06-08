@@ -25,6 +25,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Secret-chest&theme=tokyonight&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
+Note: CSS is NOT my top language, Python is, but I have a GTK theme, ok?
+
 Ask me anything in the discussions here.
 
 I'm working on Scratch2Python, a Scratch interpreter in Python, as well as other useless stuff like photolime.

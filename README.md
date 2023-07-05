@@ -25,14 +25,55 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Secret-chest&theme=tokyonight&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
+Bad name, I know. It was my first Romanian YouTube channel.
+
 Note: CSS is NOT my top language, Python is, but I have a GTK theme, ok?
 
 Ask me anything in the discussions here.
 
-I'm working on Scratch2Python, a Scratch interpreter in Python, as well as other useless stuff like photolime.
-
-I'm also working on some more stuff.
 https://Secret-chest.github.io
+
+## OSes, editors, tools...
+* Main OS: Linux Mint 21.1
+* Main desktop: Cinnamon
+* Other desktops: MATE
+* Main shell _(for casual, interactive use)_: fish
+* Secondary shell _(for scripting, administration etc.)_: bash
+* Filesystem: ext4
+* Main IDE: PyCharm CE
+* Secondary IDE: VSCodium
+* Tertiary IDE: Code::Blocks
+* Main text editor: Xed
+* Secondary text editor: vim
+* File manager: nemo
+* Video player: VLC
+* Image viewer: Pix
+* PDF viewer: Xreader
+* Image editor: GIMP
+* Vector editor: Inkscape
+* Audio editor: Audacity
+* Video editor: Kdenlive
+* Phone OS: Samsung Android 11 (non-rooted)
+
+## Specs
+### Main desktop (custom-built, no I'm not a gamer)
+* Intel Core 13th i9-13900k
+* nVIDIA RTX 3060 Ti LHR
+* ASRock Z790 PG LIGHTNING
+* Noctua NH-D15
+* Thermaltale Toughpower GF 750W
+* 64GB (2x32GB) Crucial DDR5-4800 CL40
+* 1TB Samsung 980 Pro
+* 4TB Toshiba X300
+* Intel AX201
+* 2x Samsung 3840x2160@60Hz
+
+### Laptop (HP 250 G7)
+* Intel Core 8th i7-8565U
+* Intel "UHD" Graphics 630
+* 16GB DDR4-2666
+* 256GB SSD
+* 1920x1080@60Hz
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23263238&textColor=%23ffffff&qColor=%239575cd&aColor=%2300bcd4)
 

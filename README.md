@@ -1,4 +1,7 @@
-# I no longer use GitHub
+# I'm on GitHub, but my repositories are elsewhere.
+
+* [Repositories](https://roundabout-host.com/roundabout)
+* [Email](mailto:root@roundabout-host.com)
 
 I will stop distributing projects on GitHub myself. It's clear GitHub doesn't care about git anymore: even their homepage says "The world's leading AI-powered developer platform." This is a significant change of focus that drove me, and potentially others, away from them. Maybe the SFC should revoke their permission to use their name, if they say they're not even related to git?
 
